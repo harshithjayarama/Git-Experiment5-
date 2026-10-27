@@ -1,7 +1,5 @@
 Initial content
 Remote change 1
-<<<<<<< HEAD
 Remote change 2
-=======
 Local change 2
->>>>>>> 59572cc (Local update 2)
+
